@@ -2,13 +2,3 @@ source "http://rubygems.org"
 
 gem "sinatra"
 
-get "/" do
-	"Hello, world!"
-end
-
-get "/hi" do
-	"Hi, y'all."
-end
-
-get "/about" do
-end
