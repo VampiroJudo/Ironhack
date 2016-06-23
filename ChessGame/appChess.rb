@@ -1,5 +1,9 @@
 require_relative("rook.rb")
+<<<<<<< HEAD
 require_relative("Board.rb")
+=======
+
+>>>>>>> d6cd04efe7b26d39e68f4c4b0557c7c3f2199051
 
 
 
